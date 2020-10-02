@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import axios from "axios";
+//import axios from "axios";
 
 export default class PlantList extends Component {
   // add state with a property called "plants" - initialize as an empty array
